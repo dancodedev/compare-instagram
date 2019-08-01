@@ -1,29 +1,8 @@
-# hello-world
+# Comparador de cuentas de instagram
 
-## Project setup
+Ejemplo de scraping con vue hacia instagram de forma sencilla y sin dependencias
+
+## Instalar dependencias
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
