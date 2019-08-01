@@ -6,3 +6,8 @@ Ejemplo de scraping con vue hacia instagram de forma sencilla y sin dependencias
 ```
 yarn install
 ```
+
+## Arrancar servidor
+```
+yarn serve
+```
